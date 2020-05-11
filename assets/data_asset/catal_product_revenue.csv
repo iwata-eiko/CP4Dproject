@@ -1,0 +1,530 @@
+﻿Year,Product line,Product type,Order method type,Revenue
+2010,Personal Accessories,Binoculars,E-mail,2117991.85
+2010,Personal Accessories,Binoculars,Fax,932247.37
+2010,Personal Accessories,Binoculars,Mail,600019.65
+2010,Personal Accessories,Binoculars,Sales visit,3786808.86
+2010,Personal Accessories,Binoculars,Special,336417.25
+2010,Personal Accessories,Binoculars,Telephone,4871923.34
+2010,Personal Accessories,Binoculars,Web,16601035.76
+2011,Personal Accessories,Binoculars,E-mail,1078598.51
+2011,Personal Accessories,Binoculars,Fax,237718.49
+2011,Personal Accessories,Binoculars,Mail,285258.67
+2011,Personal Accessories,Binoculars,Sales visit,1741284.77
+2011,Personal Accessories,Binoculars,Special,146050.18
+2011,Personal Accessories,Binoculars,Telephone,2310855.28
+2011,Personal Accessories,Binoculars,Web,24510807.86
+2012,Personal Accessories,Binoculars,E-mail,712465.16
+2012,Personal Accessories,Binoculars,Fax,424675.97
+2012,Personal Accessories,Binoculars,Mail,143507.74
+2012,Personal Accessories,Binoculars,Sales visit,1422611.58
+2012,Personal Accessories,Binoculars,Special,18915.86
+2012,Personal Accessories,Binoculars,Telephone,842391.03
+2012,Personal Accessories,Binoculars,Web,36409859.6
+2013,Personal Accessories,Binoculars,E-mail,375052.6
+2013,Personal Accessories,Binoculars,Fax,232043.46
+2013,Personal Accessories,Binoculars,Mail,69322.23
+2013,Personal Accessories,Binoculars,Sales visit,1334604.14
+2013,Personal Accessories,Binoculars,Telephone,483107.03
+2013,Personal Accessories,Binoculars,Web,28809078.96
+2011,Mountaineering Equipment,Climbing Accessories,E-mail,612463.22
+2011,Mountaineering Equipment,Climbing Accessories,Fax,1467741.38
+2011,Mountaineering Equipment,Climbing Accessories,Mail,431940.86
+2011,Mountaineering Equipment,Climbing Accessories,Sales visit,3169214.08
+2011,Mountaineering Equipment,Climbing Accessories,Special,721350.89
+2011,Mountaineering Equipment,Climbing Accessories,Telephone,2504269.43
+2011,Mountaineering Equipment,Climbing Accessories,Web,12969510.87
+2012,Mountaineering Equipment,Climbing Accessories,E-mail,432482.09
+2012,Mountaineering Equipment,Climbing Accessories,Fax,695895.15
+2012,Mountaineering Equipment,Climbing Accessories,Mail,247356.71
+2012,Mountaineering Equipment,Climbing Accessories,Sales visit,2607168.54
+2012,Mountaineering Equipment,Climbing Accessories,Special,45826.9
+2012,Mountaineering Equipment,Climbing Accessories,Telephone,1259982.61
+2012,Mountaineering Equipment,Climbing Accessories,Web,24448173.88
+2013,Mountaineering Equipment,Climbing Accessories,E-mail,993910.46
+2013,Mountaineering Equipment,Climbing Accessories,Fax,226692.25
+2013,Mountaineering Equipment,Climbing Accessories,Sales visit,2656128.4
+2013,Mountaineering Equipment,Climbing Accessories,Special,35039.8
+2013,Mountaineering Equipment,Climbing Accessories,Telephone,968056.48
+2013,Mountaineering Equipment,Climbing Accessories,Web,24603378.48
+2010,Camping Equipment,Cooking Gear,E-mail,6458659.25
+2010,Camping Equipment,Cooking Gear,Fax,1953311.6
+2010,Camping Equipment,Cooking Gear,Mail,1674228.14
+2010,Camping Equipment,Cooking Gear,Sales visit,11619463
+2010,Camping Equipment,Cooking Gear,Special,1052475.05
+2010,Camping Equipment,Cooking Gear,Telephone,13842071.01
+2010,Camping Equipment,Cooking Gear,Web,23161328.45
+2011,Camping Equipment,Cooking Gear,E-mail,3331376.09
+2011,Camping Equipment,Cooking Gear,Fax,1320231.97
+2011,Camping Equipment,Cooking Gear,Mail,1267583.48
+2011,Camping Equipment,Cooking Gear,Sales visit,7443733.92
+2011,Camping Equipment,Cooking Gear,Special,1118335.9
+2011,Camping Equipment,Cooking Gear,Telephone,8504819.15
+2011,Camping Equipment,Cooking Gear,Web,47857051.55
+2012,Camping Equipment,Cooking Gear,E-mail,1629635
+2012,Camping Equipment,Cooking Gear,Fax,850375.02
+2012,Camping Equipment,Cooking Gear,Mail,407717.17
+2012,Camping Equipment,Cooking Gear,Sales visit,6554611.7
+2012,Camping Equipment,Cooking Gear,Special,19230
+2012,Camping Equipment,Cooking Gear,Telephone,3277048.4
+2012,Camping Equipment,Cooking Gear,Web,71178897.98
+2013,Camping Equipment,Cooking Gear,E-mail,1240489.97
+2013,Camping Equipment,Cooking Gear,Fax,251937.02
+2013,Camping Equipment,Cooking Gear,Sales visit,4338010.54
+2013,Camping Equipment,Cooking Gear,Special,154841.05
+2013,Camping Equipment,Cooking Gear,Telephone,1350673.58
+2013,Camping Equipment,Cooking Gear,Web,50977848.19
+2010,Personal Accessories,Eyewear,E-mail,7249429.86
+2010,Personal Accessories,Eyewear,Fax,3938481.17
+2010,Personal Accessories,Eyewear,Mail,509694.27
+2010,Personal Accessories,Eyewear,Sales visit,1732489.87
+2010,Personal Accessories,Eyewear,Special,631350.31
+2010,Personal Accessories,Eyewear,Telephone,14529595.64
+2010,Personal Accessories,Eyewear,Web,125719437.9
+2011,Personal Accessories,Eyewear,E-mail,3907717.83
+2011,Personal Accessories,Eyewear,Fax,1312868.89
+2011,Personal Accessories,Eyewear,Mail,273230.45
+2011,Personal Accessories,Eyewear,Sales visit,1809774.75
+2011,Personal Accessories,Eyewear,Special,170077.85
+2011,Personal Accessories,Eyewear,Telephone,5451466.24
+2011,Personal Accessories,Eyewear,Web,195723469.4
+2012,Personal Accessories,Eyewear,E-mail,1962701.26
+2012,Personal Accessories,Eyewear,Fax,341508.77
+2012,Personal Accessories,Eyewear,Mail,269806.25
+2012,Personal Accessories,Eyewear,Sales visit,1746678.9
+2012,Personal Accessories,Eyewear,Special,14236.44
+2012,Personal Accessories,Eyewear,Telephone,1344739.75
+2012,Personal Accessories,Eyewear,Web,276546493.8
+2013,Personal Accessories,Eyewear,E-mail,1520510.26
+2013,Personal Accessories,Eyewear,Fax,32271.66
+2013,Personal Accessories,Eyewear,Mail,210793.34
+2013,Personal Accessories,Eyewear,Sales visit,1652144.18
+2013,Personal Accessories,Eyewear,Special,14882.64
+2013,Personal Accessories,Eyewear,Telephone,914833.02
+2013,Personal Accessories,Eyewear,Web,217594513.8
+2010,Outdoor Protection,First Aid,E-mail,934340.34
+2010,Outdoor Protection,First Aid,Fax,226072.78
+2010,Outdoor Protection,First Aid,Mail,228160.66
+2010,Outdoor Protection,First Aid,Sales visit,1055890.28
+2010,Outdoor Protection,First Aid,Special,140092.55
+2010,Outdoor Protection,First Aid,Telephone,1903977.57
+2010,Outdoor Protection,First Aid,Web,2414215.89
+2011,Outdoor Protection,First Aid,E-mail,183502.43
+2011,Outdoor Protection,First Aid,Fax,40730.97
+2011,Outdoor Protection,First Aid,Mail,81363.3
+2011,Outdoor Protection,First Aid,Sales visit,298313.89
+2011,Outdoor Protection,First Aid,Special,30239.61
+2011,Outdoor Protection,First Aid,Telephone,419034.95
+2011,Outdoor Protection,First Aid,Web,1837271.61
+2012,Outdoor Protection,First Aid,E-mail,44541.8
+2012,Outdoor Protection,First Aid,Fax,16366.46
+2012,Outdoor Protection,First Aid,Mail,12221.27
+2012,Outdoor Protection,First Aid,Sales visit,128660.46
+2012,Outdoor Protection,First Aid,Special,2070
+2012,Outdoor Protection,First Aid,Telephone,87821.23
+2012,Outdoor Protection,First Aid,Web,1497826.14
+2013,Outdoor Protection,First Aid,E-mail,9719.84
+2013,Outdoor Protection,First Aid,Fax,7595.61
+2013,Outdoor Protection,First Aid,Sales visit,29192.03
+2013,Outdoor Protection,First Aid,Telephone,14578.11
+2013,Outdoor Protection,First Aid,Web,785899.34
+2010,Golf Equipment,Golf Accessories,E-mail,2085178.26
+2010,Golf Equipment,Golf Accessories,Fax,363764.45
+2010,Golf Equipment,Golf Accessories,Mail,506101.25
+2010,Golf Equipment,Golf Accessories,Sales visit,764641.46
+2010,Golf Equipment,Golf Accessories,Special,252149.83
+2010,Golf Equipment,Golf Accessories,Telephone,3275128.28
+2010,Golf Equipment,Golf Accessories,Web,3408437.57
+2011,Golf Equipment,Golf Accessories,E-mail,803617.49
+2011,Golf Equipment,Golf Accessories,Fax,223615.92
+2011,Golf Equipment,Golf Accessories,Mail,193528.15
+2011,Golf Equipment,Golf Accessories,Sales visit,616672.1
+2011,Golf Equipment,Golf Accessories,Special,146459.13
+2011,Golf Equipment,Golf Accessories,Telephone,2154210.73
+2011,Golf Equipment,Golf Accessories,Web,9113670.57
+2012,Golf Equipment,Golf Accessories,E-mail,304162.62
+2012,Golf Equipment,Golf Accessories,Fax,259596.07
+2012,Golf Equipment,Golf Accessories,Mail,135723.91
+2012,Golf Equipment,Golf Accessories,Sales visit,755114.31
+2012,Golf Equipment,Golf Accessories,Telephone,291666.02
+2012,Golf Equipment,Golf Accessories,Web,14438572.01
+2013,Golf Equipment,Golf Accessories,E-mail,254019.57
+2013,Golf Equipment,Golf Accessories,Fax,217209.37
+2013,Golf Equipment,Golf Accessories,Sales visit,458518.17
+2013,Golf Equipment,Golf Accessories,Telephone,162609.52
+2013,Golf Equipment,Golf Accessories,Web,10329977.12
+2010,Outdoor Protection,Insect Repellents,E-mail,1834275.36
+2010,Outdoor Protection,Insect Repellents,Fax,796496.72
+2010,Outdoor Protection,Insect Repellents,Mail,759589.48
+2010,Outdoor Protection,Insect Repellents,Sales visit,3503612.13
+2010,Outdoor Protection,Insect Repellents,Special,488622.23
+2010,Outdoor Protection,Insect Repellents,Telephone,3585767.18
+2010,Outdoor Protection,Insect Repellents,Web,6995964.03
+2011,Outdoor Protection,Insect Repellents,E-mail,504838.33
+2011,Outdoor Protection,Insect Repellents,Fax,212379.67
+2011,Outdoor Protection,Insect Repellents,Mail,275912.58
+2011,Outdoor Protection,Insect Repellents,Sales visit,1315170.23
+2011,Outdoor Protection,Insect Repellents,Special,134552.56
+2011,Outdoor Protection,Insect Repellents,Telephone,1327068.21
+2011,Outdoor Protection,Insect Repellents,Web,7809512.07
+2012,Outdoor Protection,Insect Repellents,E-mail,150953.41
+2012,Outdoor Protection,Insect Repellents,Fax,57794.02
+2012,Outdoor Protection,Insect Repellents,Mail,61962.78
+2012,Outdoor Protection,Insect Repellents,Sales visit,368648.04
+2012,Outdoor Protection,Insect Repellents,Special,4068.96
+2012,Outdoor Protection,Insect Repellents,Telephone,252700.3
+2012,Outdoor Protection,Insect Repellents,Web,4320892.12
+2013,Outdoor Protection,Insect Repellents,E-mail,27206.04
+2013,Outdoor Protection,Insect Repellents,Fax,5657.67
+2013,Outdoor Protection,Insect Repellents,Sales visit,78970.95
+2013,Outdoor Protection,Insect Repellents,Telephone,29149.5
+2013,Outdoor Protection,Insect Repellents,Web,1921077.95
+2010,Golf Equipment,Irons,E-mail,9593104.7
+2010,Golf Equipment,Irons,Fax,2186133.23
+2010,Golf Equipment,Irons,Mail,2992636.78
+2010,Golf Equipment,Irons,Sales visit,4262487.02
+2010,Golf Equipment,Irons,Special,1506999.08
+2010,Golf Equipment,Irons,Telephone,15338004.41
+2010,Golf Equipment,Irons,Web,18213946.02
+2011,Golf Equipment,Irons,E-mail,2985013.08
+2011,Golf Equipment,Irons,Fax,1129687.6
+2011,Golf Equipment,Irons,Mail,843012.18
+2011,Golf Equipment,Irons,Sales visit,2800330.51
+2011,Golf Equipment,Irons,Special,336744.46
+2011,Golf Equipment,Irons,Telephone,8634694.94
+2011,Golf Equipment,Irons,Web,38387093.2
+2012,Golf Equipment,Irons,E-mail,1764949.43
+2012,Golf Equipment,Irons,Fax,931861.18
+2012,Golf Equipment,Irons,Mail,756503.53
+2012,Golf Equipment,Irons,Sales visit,4001916.38
+2012,Golf Equipment,Irons,Telephone,2526320.64
+2012,Golf Equipment,Irons,Web,72016232.87
+2013,Golf Equipment,Irons,E-mail,1545193.07
+2013,Golf Equipment,Irons,Fax,999702.17
+2013,Golf Equipment,Irons,Sales visit,2755578.51
+2013,Golf Equipment,Irons,Telephone,149082.69
+2013,Golf Equipment,Irons,Web,58157110.31
+2010,Personal Accessories,Knives,E-mail,2418467.73
+2010,Personal Accessories,Knives,Fax,1660179.24
+2010,Personal Accessories,Knives,Mail,713351.25
+2010,Personal Accessories,Knives,Sales visit,6750807.67
+2010,Personal Accessories,Knives,Special,1085896.59
+2010,Personal Accessories,Knives,Telephone,5660156.75
+2010,Personal Accessories,Knives,Web,18085774.86
+2011,Personal Accessories,Knives,E-mail,1004165.91
+2011,Personal Accessories,Knives,Fax,554525.22
+2011,Personal Accessories,Knives,Mail,397885.68
+2011,Personal Accessories,Knives,Sales visit,2488766.59
+2011,Personal Accessories,Knives,Special,361964.43
+2011,Personal Accessories,Knives,Telephone,3245435.14
+2011,Personal Accessories,Knives,Web,25111440.28
+2012,Personal Accessories,Knives,E-mail,951309.96
+2012,Personal Accessories,Knives,Fax,485547.21
+2012,Personal Accessories,Knives,Mail,265717.73
+2012,Personal Accessories,Knives,Sales visit,3202085.56
+2012,Personal Accessories,Knives,Special,77178.62
+2012,Personal Accessories,Knives,Telephone,1732514.92
+2012,Personal Accessories,Knives,Web,40989790.36
+2013,Personal Accessories,Knives,E-mail,556537.64
+2013,Personal Accessories,Knives,Fax,243221.98
+2013,Personal Accessories,Knives,Sales visit,1697105.52
+2013,Personal Accessories,Knives,Telephone,672549.68
+2013,Personal Accessories,Knives,Web,33008063.07
+2010,Camping Equipment,Lanterns,E-mail,3943822.48
+2010,Camping Equipment,Lanterns,Fax,688767.85
+2010,Camping Equipment,Lanterns,Mail,773315.94
+2010,Camping Equipment,Lanterns,Sales visit,5364903.31
+2010,Camping Equipment,Lanterns,Special,444143.96
+2010,Camping Equipment,Lanterns,Telephone,7595599.7
+2010,Camping Equipment,Lanterns,Web,9852350.95
+2011,Camping Equipment,Lanterns,E-mail,1683368.59
+2011,Camping Equipment,Lanterns,Fax,493237.8
+2011,Camping Equipment,Lanterns,Mail,515076.03
+2011,Camping Equipment,Lanterns,Sales visit,3058952.45
+2011,Camping Equipment,Lanterns,Special,323314.84
+2011,Camping Equipment,Lanterns,Telephone,3532744.79
+2011,Camping Equipment,Lanterns,Web,20182228.56
+2012,Camping Equipment,Lanterns,E-mail,843593.66
+2012,Camping Equipment,Lanterns,Fax,383104.55
+2012,Camping Equipment,Lanterns,Mail,197715.05
+2012,Camping Equipment,Lanterns,Sales visit,3843747.04
+2012,Camping Equipment,Lanterns,Special,12479.18
+2012,Camping Equipment,Lanterns,Telephone,1266573.71
+2012,Camping Equipment,Lanterns,Web,33892144.66
+2013,Camping Equipment,Lanterns,E-mail,316196.37
+2013,Camping Equipment,Lanterns,Fax,159177.13
+2013,Camping Equipment,Lanterns,Sales visit,1976023.46
+2013,Camping Equipment,Lanterns,Special,55408.4
+2013,Camping Equipment,Lanterns,Telephone,652674.3
+2013,Camping Equipment,Lanterns,Web,24874995.88
+2010,Personal Accessories,Navigation,E-mail,4431173.8
+2010,Personal Accessories,Navigation,Fax,1759332.3
+2010,Personal Accessories,Navigation,Mail,780630.81
+2010,Personal Accessories,Navigation,Sales visit,6480485.13
+2010,Personal Accessories,Navigation,Special,897009.71
+2010,Personal Accessories,Navigation,Telephone,8874893.6
+2010,Personal Accessories,Navigation,Web,28374985.64
+2011,Personal Accessories,Navigation,E-mail,1448702.9
+2011,Personal Accessories,Navigation,Fax,627963.32
+2011,Personal Accessories,Navigation,Mail,542552.45
+2011,Personal Accessories,Navigation,Sales visit,2305319.39
+2011,Personal Accessories,Navigation,Special,534732.18
+2011,Personal Accessories,Navigation,Telephone,3324854.46
+2011,Personal Accessories,Navigation,Web,34940445.1
+2012,Personal Accessories,Navigation,E-mail,1047617.51
+2012,Personal Accessories,Navigation,Fax,738261.81
+2012,Personal Accessories,Navigation,Mail,387256.44
+2012,Personal Accessories,Navigation,Sales visit,2819193.41
+2012,Personal Accessories,Navigation,Special,27669.24
+2012,Personal Accessories,Navigation,Telephone,1288989.05
+2012,Personal Accessories,Navigation,Web,56021086.15
+2013,Personal Accessories,Navigation,E-mail,1051496.68
+2013,Personal Accessories,Navigation,Fax,309012.46
+2013,Personal Accessories,Navigation,Mail,23912.82
+2013,Personal Accessories,Navigation,Sales visit,2309999.17
+2013,Personal Accessories,Navigation,Special,131858.1
+2013,Personal Accessories,Navigation,Telephone,758403.01
+2013,Personal Accessories,Navigation,Web,45252805.28
+2010,Camping Equipment,Packs,E-mail,9916054.12
+2010,Camping Equipment,Packs,Fax,1980553.15
+2010,Camping Equipment,Packs,Mail,1731917.5
+2010,Camping Equipment,Packs,Sales visit,11880132.53
+2010,Camping Equipment,Packs,Special,1258935.05
+2010,Camping Equipment,Packs,Telephone,17989640.73
+2010,Camping Equipment,Packs,Web,25539056.09
+2011,Camping Equipment,Packs,E-mail,5307071.69
+2011,Camping Equipment,Packs,Fax,1230898.84
+2011,Camping Equipment,Packs,Mail,1929696.51
+2011,Camping Equipment,Packs,Sales visit,8728368.81
+2011,Camping Equipment,Packs,Special,980559.82
+2011,Camping Equipment,Packs,Telephone,9807314.49
+2011,Camping Equipment,Packs,Web,59432848.21
+2012,Camping Equipment,Packs,E-mail,2169323.85
+2012,Camping Equipment,Packs,Fax,1541843.02
+2012,Camping Equipment,Packs,Mail,594980.92
+2012,Camping Equipment,Packs,Sales visit,8853638.1
+2012,Camping Equipment,Packs,Special,29792.16
+2012,Camping Equipment,Packs,Telephone,3206432.12
+2012,Camping Equipment,Packs,Web,94613548.14
+2013,Camping Equipment,Packs,E-mail,1186306.99
+2013,Camping Equipment,Packs,Fax,983958.67
+2013,Camping Equipment,Packs,Mail,3996.72
+2013,Camping Equipment,Packs,Sales visit,6042301.13
+2013,Camping Equipment,Packs,Special,389907.7
+2013,Camping Equipment,Packs,Telephone,1976748.71
+2013,Camping Equipment,Packs,Web,72574577.07
+2010,Golf Equipment,Putters,E-mail,5691393.14
+2010,Golf Equipment,Putters,Fax,1136358.51
+2010,Golf Equipment,Putters,Mail,1262858.12
+2010,Golf Equipment,Putters,Sales visit,2303861.2
+2010,Golf Equipment,Putters,Special,460354.71
+2010,Golf Equipment,Putters,Telephone,9766595.74
+2010,Golf Equipment,Putters,Web,8797956.4
+2011,Golf Equipment,Putters,E-mail,1673635.1
+2011,Golf Equipment,Putters,Fax,369723.56
+2011,Golf Equipment,Putters,Mail,370981.17
+2011,Golf Equipment,Putters,Sales visit,1068286.95
+2011,Golf Equipment,Putters,Special,169089.73
+2011,Golf Equipment,Putters,Telephone,5133597.13
+2011,Golf Equipment,Putters,Web,20137937.24
+2012,Golf Equipment,Putters,E-mail,629684.93
+2012,Golf Equipment,Putters,Fax,342595.01
+2012,Golf Equipment,Putters,Mail,287591.54
+2012,Golf Equipment,Putters,Sales visit,1303459.89
+2012,Golf Equipment,Putters,Telephone,914858.67
+2012,Golf Equipment,Putters,Web,26217453.15
+2013,Golf Equipment,Putters,E-mail,495971.08
+2013,Golf Equipment,Putters,Fax,365094.43
+2013,Golf Equipment,Putters,Sales visit,970219.54
+2013,Golf Equipment,Putters,Telephone,68755.11
+2013,Golf Equipment,Putters,Web,16245959.32
+2011,Mountaineering Equipment,Rope,E-mail,722055.96
+2011,Mountaineering Equipment,Rope,Fax,1574660.6
+2011,Mountaineering Equipment,Rope,Mail,761086.6
+2011,Mountaineering Equipment,Rope,Sales visit,4545250.02
+2011,Mountaineering Equipment,Rope,Special,866062.48
+2011,Mountaineering Equipment,Rope,Telephone,3034518.66
+2011,Mountaineering Equipment,Rope,Web,17151637.37
+2012,Mountaineering Equipment,Rope,E-mail,467629.7
+2012,Mountaineering Equipment,Rope,Fax,686060.3
+2012,Mountaineering Equipment,Rope,Mail,372823.4
+2012,Mountaineering Equipment,Rope,Sales visit,4164912.64
+2012,Mountaineering Equipment,Rope,Special,445945.45
+2012,Mountaineering Equipment,Rope,Telephone,1875692.21
+2012,Mountaineering Equipment,Rope,Web,38313405.45
+2013,Mountaineering Equipment,Rope,E-mail,1047491.88
+2013,Mountaineering Equipment,Rope,Fax,745866.63
+2013,Mountaineering Equipment,Rope,Sales visit,3913309.53
+2013,Mountaineering Equipment,Rope,Special,83799.5
+2013,Mountaineering Equipment,Rope,Telephone,1938524.23
+2013,Mountaineering Equipment,Rope,Web,31715912.12
+2011,Mountaineering Equipment,Safety,E-mail,485382.22
+2011,Mountaineering Equipment,Safety,Fax,1241422.86
+2011,Mountaineering Equipment,Safety,Mail,419786.26
+2011,Mountaineering Equipment,Safety,Sales visit,3714915.96
+2011,Mountaineering Equipment,Safety,Special,599881.6
+2011,Mountaineering Equipment,Safety,Telephone,2009634.6
+2011,Mountaineering Equipment,Safety,Web,14034842.18
+2012,Mountaineering Equipment,Safety,E-mail,267113.5
+2012,Mountaineering Equipment,Safety,Fax,750310.65
+2012,Mountaineering Equipment,Safety,Mail,172714.4
+2012,Mountaineering Equipment,Safety,Sales visit,2834617.45
+2012,Mountaineering Equipment,Safety,Special,25237.7
+2012,Mountaineering Equipment,Safety,Telephone,1529672.15
+2012,Mountaineering Equipment,Safety,Web,27137271.25
+2013,Mountaineering Equipment,Safety,E-mail,530635.45
+2013,Mountaineering Equipment,Safety,Fax,667076.25
+2013,Mountaineering Equipment,Safety,Sales visit,2716234.2
+2013,Mountaineering Equipment,Safety,Telephone,1293924.7
+2013,Mountaineering Equipment,Safety,Web,22806210.6
+2010,Camping Equipment,Sleeping Bags,E-mail,6880729.97
+2010,Camping Equipment,Sleeping Bags,Fax,2544508.02
+2010,Camping Equipment,Sleeping Bags,Mail,2069430.28
+2010,Camping Equipment,Sleeping Bags,Sales visit,12275965.93
+2010,Camping Equipment,Sleeping Bags,Special,1375009.71
+2010,Camping Equipment,Sleeping Bags,Telephone,15714892.44
+2010,Camping Equipment,Sleeping Bags,Web,24378926.61
+2011,Camping Equipment,Sleeping Bags,E-mail,4372737.1
+2011,Camping Equipment,Sleeping Bags,Fax,1918362.83
+2011,Camping Equipment,Sleeping Bags,Mail,1438729.28
+2011,Camping Equipment,Sleeping Bags,Sales visit,8821725.36
+2011,Camping Equipment,Sleeping Bags,Special,1062984.35
+2011,Camping Equipment,Sleeping Bags,Telephone,8936341.28
+2011,Camping Equipment,Sleeping Bags,Web,50487597.62
+2012,Camping Equipment,Sleeping Bags,E-mail,2247905.86
+2012,Camping Equipment,Sleeping Bags,Fax,993059.22
+2012,Camping Equipment,Sleeping Bags,Mail,489660.36
+2012,Camping Equipment,Sleeping Bags,Sales visit,8205211.71
+2012,Camping Equipment,Sleeping Bags,Special,128949.3
+2012,Camping Equipment,Sleeping Bags,Telephone,3032542.88
+2012,Camping Equipment,Sleeping Bags,Web,83067610.07
+2013,Camping Equipment,Sleeping Bags,E-mail,1209714.06
+2013,Camping Equipment,Sleeping Bags,Fax,438674.3
+2013,Camping Equipment,Sleeping Bags,Sales visit,6060301.56
+2013,Camping Equipment,Sleeping Bags,Special,239723.46
+2013,Camping Equipment,Sleeping Bags,Telephone,1014209.64
+2013,Camping Equipment,Sleeping Bags,Web,59767385.15
+2010,Outdoor Protection,Sunscreen,E-mail,1367299.65
+2010,Outdoor Protection,Sunscreen,Fax,412942.7
+2010,Outdoor Protection,Sunscreen,Mail,414780.09
+2010,Outdoor Protection,Sunscreen,Sales visit,1896398.86
+2010,Outdoor Protection,Sunscreen,Special,230060.63
+2010,Outdoor Protection,Sunscreen,Telephone,2651425.01
+2010,Outdoor Protection,Sunscreen,Web,4325536.93
+2011,Outdoor Protection,Sunscreen,E-mail,718190.71
+2011,Outdoor Protection,Sunscreen,Fax,132218.56
+2011,Outdoor Protection,Sunscreen,Mail,237079.55
+2011,Outdoor Protection,Sunscreen,Sales visit,1058958.5
+2011,Outdoor Protection,Sunscreen,Special,102564.69
+2011,Outdoor Protection,Sunscreen,Telephone,1457184.54
+2011,Outdoor Protection,Sunscreen,Web,6832487.12
+2012,Outdoor Protection,Sunscreen,E-mail,93847.8
+2012,Outdoor Protection,Sunscreen,Fax,48868
+2012,Outdoor Protection,Sunscreen,Mail,27322
+2012,Outdoor Protection,Sunscreen,Sales visit,249626.3
+2012,Outdoor Protection,Sunscreen,Special,4660
+2012,Outdoor Protection,Sunscreen,Telephone,166964.1
+2012,Outdoor Protection,Sunscreen,Web,2751360.65
+2013,Outdoor Protection,Sunscreen,E-mail,13762.16
+2013,Outdoor Protection,Sunscreen,Fax,9361.56
+2013,Outdoor Protection,Sunscreen,Sales visit,46442.64
+2013,Outdoor Protection,Sunscreen,Telephone,32643.82
+2013,Outdoor Protection,Sunscreen,Web,1459768.04
+2010,Camping Equipment,Tents,E-mail,11925368.91
+2010,Camping Equipment,Tents,Fax,2467622.77
+2010,Camping Equipment,Tents,Mail,3766729.29
+2010,Camping Equipment,Tents,Sales visit,20929526.1
+2010,Camping Equipment,Tents,Special,1713647.35
+2010,Camping Equipment,Tents,Telephone,25325393
+2010,Camping Equipment,Tents,Web,42897857.82
+2011,Camping Equipment,Tents,E-mail,6596451.84
+2011,Camping Equipment,Tents,Fax,1265542.83
+2011,Camping Equipment,Tents,Mail,3695674.66
+2011,Camping Equipment,Tents,Sales visit,15300094.43
+2011,Camping Equipment,Tents,Special,1527791.56
+2011,Camping Equipment,Tents,Telephone,16781036.6
+2011,Camping Equipment,Tents,Web,92503689.94
+2012,Camping Equipment,Tents,E-mail,3721845.65
+2012,Camping Equipment,Tents,Fax,1458069.76
+2012,Camping Equipment,Tents,Mail,792192.76
+2012,Camping Equipment,Tents,Sales visit,10202969.84
+2012,Camping Equipment,Tents,Special,141644.8
+2012,Camping Equipment,Tents,Telephone,6932854.29
+2012,Camping Equipment,Tents,Web,143601474.9
+2013,Camping Equipment,Tents,E-mail,918443.18
+2013,Camping Equipment,Tents,Fax,131162.13
+2013,Camping Equipment,Tents,Sales visit,7112280.95
+2013,Camping Equipment,Tents,Special,359815.8
+2013,Camping Equipment,Tents,Telephone,3155281.31
+2013,Camping Equipment,Tents,Web,102997265.6
+2011,Mountaineering Equipment,Tools,E-mail,697161.73
+2011,Mountaineering Equipment,Tools,Fax,1845967.11
+2011,Mountaineering Equipment,Tools,Mail,884369.56
+2011,Mountaineering Equipment,Tools,Sales visit,5205637.14
+2011,Mountaineering Equipment,Tools,Special,651527.59
+2011,Mountaineering Equipment,Tools,Telephone,3077869.67
+2011,Mountaineering Equipment,Tools,Web,21699499.04
+2012,Mountaineering Equipment,Tools,E-mail,661875.32
+2012,Mountaineering Equipment,Tools,Fax,1405781.15
+2012,Mountaineering Equipment,Tools,Mail,241580.87
+2012,Mountaineering Equipment,Tools,Sales visit,5191923
+2012,Mountaineering Equipment,Tools,Telephone,1920777.7
+2012,Mountaineering Equipment,Tools,Web,42837593.09
+2013,Mountaineering Equipment,Tools,E-mail,558250.43
+2013,Mountaineering Equipment,Tools,Fax,540895.75
+2013,Mountaineering Equipment,Tools,Sales visit,3897315.68
+2013,Mountaineering Equipment,Tools,Special,199336.2
+2013,Mountaineering Equipment,Tools,Telephone,1497904.96
+2013,Mountaineering Equipment,Tools,Web,37884755.72
+2010,Personal Accessories,Watches,E-mail,6602644.97
+2010,Personal Accessories,Watches,Fax,3023026.39
+2010,Personal Accessories,Watches,Mail,348595.37
+2010,Personal Accessories,Watches,Sales visit,1749914.29
+2010,Personal Accessories,Watches,Special,547128.64
+2010,Personal Accessories,Watches,Telephone,12004123.46
+2010,Personal Accessories,Watches,Web,95841592.31
+2011,Personal Accessories,Watches,E-mail,2813868.76
+2011,Personal Accessories,Watches,Fax,880152.83
+2011,Personal Accessories,Watches,Mail,220818.57
+2011,Personal Accessories,Watches,Sales visit,995828.41
+2011,Personal Accessories,Watches,Special,177556.56
+2011,Personal Accessories,Watches,Telephone,4095484.03
+2011,Personal Accessories,Watches,Web,131291714.5
+2012,Personal Accessories,Watches,E-mail,894467.26
+2012,Personal Accessories,Watches,Fax,159816.73
+2012,Personal Accessories,Watches,Mail,280049.89
+2012,Personal Accessories,Watches,Sales visit,960308.43
+2012,Personal Accessories,Watches,Special,8195.4
+2012,Personal Accessories,Watches,Telephone,770912.71
+2012,Personal Accessories,Watches,Web,158700848
+2013,Personal Accessories,Watches,E-mail,506166.09
+2013,Personal Accessories,Watches,Fax,70130.19
+2013,Personal Accessories,Watches,Mail,96953.42
+2013,Personal Accessories,Watches,Sales visit,709231.83
+2013,Personal Accessories,Watches,Special,5508.5
+2013,Personal Accessories,Watches,Telephone,344406.22
+2013,Personal Accessories,Watches,Web,102702930.8
+2010,Golf Equipment,Woods,E-mail,11952861.82
+2010,Golf Equipment,Woods,Fax,2569673.89
+2010,Golf Equipment,Woods,Mail,3634811.63
+2010,Golf Equipment,Woods,Sales visit,4715333.46
+2010,Golf Equipment,Woods,Special,1485626.1
+2010,Golf Equipment,Woods,Telephone,15864392.5
+2010,Golf Equipment,Woods,Web,19163061.42
+2011,Golf Equipment,Woods,E-mail,3388966.94
+2011,Golf Equipment,Woods,Fax,1816536.51
+2011,Golf Equipment,Woods,Mail,948213.5
+2011,Golf Equipment,Woods,Sales visit,3234926.11
+2011,Golf Equipment,Woods,Special,607339.93
+2011,Golf Equipment,Woods,Telephone,11417849.77
+2011,Golf Equipment,Woods,Web,49300993.37
+2012,Golf Equipment,Woods,E-mail,2702936.8
+2012,Golf Equipment,Woods,Fax,874169.88
+2012,Golf Equipment,Woods,Mail,761325.72
+2012,Golf Equipment,Woods,Sales visit,4501549.1
+2012,Golf Equipment,Woods,Telephone,2678388.31
+2012,Golf Equipment,Woods,Web,90713638.58
+2013,Golf Equipment,Woods,E-mail,2063245.13
+2013,Golf Equipment,Woods,Fax,1455581.49
+2013,Golf Equipment,Woods,Sales visit,4728024.02
+2013,Golf Equipment,Woods,Telephone,353958.19
+2013,Golf Equipment,Woods,Web,72965010.48
